@@ -40,6 +40,20 @@ La infraestructura de Azure VM está diseñada para admitir tecnologías de Micr
 Como una gran ventaja que tiene Microsoft Azure es que siempre se cuenta con hardware moderno y siempre actualizado y esto beneficia directamente al usuario ya que no necesitan reemplazar y actualizar el hardware. 
 Flexibilidad
 Los requisitos cambian y, como tal, la infraestructura de la que depende una aplicación tiende a crecer o reducirse. Con la tecnología de virtualización anterior, las aplicaciones se basaban en infraestructura física y permanecían bloqueadas. Por lo tanto, era difícil ampliar o reducir en respuesta a las necesidades de una empresa.
+Aportaciones
+Hardware moderno y siempre actualizado
+Los clientes de Azure ya no necesitan reemplazar y actualizar el hardware debido a que este siempre está actualizado. Solo necesitan saber la cantidad de núcleos de procesador, la cantidad de memoria y el tipo de almacenamiento.
+Además de que tienes la posibilidad de instalar programas antiguos que ya no siguieron teniendo actualizaciones, también podemos Linux aunque más seria para probar y claro que si no nos gusta podemos eliminar el sistema operativo. Al igual que con los sitios web de Azure, los clientes pueden centrarse únicamente en diseñar y desarrollar aplicaciones móviles y dejar que Azure administre el mecanismo de entrega. 
+Los demás servicios de Azure, las aplicaciones móviles implementadas en Azure disfrutan de un buen rendimiento, alta disponibilidad, escalabilidad y la capacidad de admitir de forma nativa todas las plataformas móviles populares, no solo las de Microsoft. La capacidad de almacenar datos en las instalaciones o en la nube, y poder almacenar datos en caché, permite a los desarrolladores equilibrar los requisitos de seguridad y rendimiento.
+
+	Conclusiones
+1.	Cada elemento puede generar distintas cosas y que estas pueden estar desde gratiuto a tener que pagarlas, allí nos desplegó una variedad de servidores una mejor que otra y detallando las características que esta tendría si fuera elegida.
+2.	Podemos decir que podemos llegar a entrar en desesperación si no se sabe los pasos para poder crear una máquina virtual o incluso llegar a ejecutarla, incluso el de instalar varias aplicaciones que en un futuro llega a tener aspectos negativos. 
+3.	Al instalar una gran variedad de aplicaciones esta puede llegar a reducir su operabilidad o incluso no poder ejecutarlas. en esta parte de incompatibilidad se ve más afectada a empresas que deseen trabajar de esta manera porque no estaría diseñada para algo específico que se desee.
+Recomendaciones
+1.	Antes de iniciar en Microsoft Azure debemos investigar un poco cuál es su funcionamiento y que es lo que podemos llegar hacer en esa interfase.
+2.	Invertir en máquinas virtuales de bajo presupuesto porque los primerizos tendrían que es familiarizarse primero con el entorno de Microsoft Azure.
+
 
 Bibliografía
 Copeland, M., Soh, J., Puca, A., Manning, M. y Gollob, D. (2015). Microsoft Azure. Nueva York, NY, Estados Unidos :: Apress .
