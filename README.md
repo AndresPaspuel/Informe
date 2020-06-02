@@ -50,6 +50,7 @@ Los demás servicios de Azure, las aplicaciones móviles implementadas en Azure 
 1.	Cada elemento puede generar distintas cosas y que estas pueden estar desde gratiuto a tener que pagarlas, allí nos desplegó una variedad de servidores una mejor que otra y detallando las características que esta tendría si fuera elegida.
 2.	Podemos decir que podemos llegar a entrar en desesperación si no se sabe los pasos para poder crear una máquina virtual o incluso llegar a ejecutarla, incluso el de instalar varias aplicaciones que en un futuro llega a tener aspectos negativos. 
 3.	Al instalar una gran variedad de aplicaciones esta puede llegar a reducir su operabilidad o incluso no poder ejecutarlas. en esta parte de incompatibilidad se ve más afectada a empresas que deseen trabajar de esta manera porque no estaría diseñada para algo específico que se desee.
+
 Recomendaciones
 1.	Antes de iniciar en Microsoft Azure debemos investigar un poco cuál es su funcionamiento y que es lo que podemos llegar hacer en esa interfase.
 2.	Invertir en máquinas virtuales de bajo presupuesto porque los primerizos tendrían que es familiarizarse primero con el entorno de Microsoft Azure.
