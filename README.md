@@ -40,6 +40,7 @@ La infraestructura de Azure VM está diseñada para admitir tecnologías de Micr
 Como una gran ventaja que tiene Microsoft Azure es que siempre se cuenta con hardware moderno y siempre actualizado y esto beneficia directamente al usuario ya que no necesitan reemplazar y actualizar el hardware. 
 Flexibilidad
 Los requisitos cambian y, como tal, la infraestructura de la que depende una aplicación tiende a crecer o reducirse. Con la tecnología de virtualización anterior, las aplicaciones se basaban en infraestructura física y permanecían bloqueadas. Por lo tanto, era difícil ampliar o reducir en respuesta a las necesidades de una empresa.
+
 Aportaciones
 Hardware moderno y siempre actualizado
 Los clientes de Azure ya no necesitan reemplazar y actualizar el hardware debido a que este siempre está actualizado. Solo necesitan saber la cantidad de núcleos de procesador, la cantidad de memoria y el tipo de almacenamiento.
