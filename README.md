@@ -27,4 +27,9 @@ Como una gran ventaja que tiene Microsoft Azure es que siempre se cuenta con har
 Flexibilidad
 Los requisitos cambian y, como tal, la infraestructura de la que depende una aplicación tiende a crecer o reducirse. Con la tecnología de virtualización anterior, las aplicaciones se basaban en infraestructura física y permanecían bloqueadas. Por lo tanto, era difícil ampliar o reducir en respuesta a las necesidades de una empresa.
 
+Bibliografía
+Copeland, M., Soh, J., Puca, A., Manning, M. y Gollob, D. (2015). Microsoft Azure. Nueva York, NY, Estados Unidos :: Apress .
+Mund, S. (2015). Microsoft Azure Machine Learning . Packt Publishing Ltd.
+
+
 
