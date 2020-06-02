@@ -122,7 +122,8 @@ Los clientes de Azure ya no necesitan reemplazar y actualizar el hardware debido
 Además de que tienes la posibilidad de instalar programas antiguos que ya no siguieron teniendo actualizaciones, también podemos Linux aunque más seria para probar y claro que si no nos gusta podemos eliminar el sistema operativo. Al igual que con los sitios web de Azure, los clientes pueden centrarse únicamente en diseñar y desarrollar aplicaciones móviles y dejar que Azure administre el mecanismo de entrega. 
 Los demás servicios de Azure, las aplicaciones móviles implementadas en Azure disfrutan de un buen rendimiento, alta disponibilidad, escalabilidad y la capacidad de admitir de forma nativa todas las plataformas móviles populares, no solo las de Microsoft. La capacidad de almacenar datos en las instalaciones o en la nube, y poder almacenar datos en caché, permite a los desarrolladores equilibrar los requisitos de seguridad y rendimiento.
 
-11.Conclusiones
+11)Conclusiones
+ 
  Cada elemento puede generar distintas cosas y que estas pueden estar desde gratuito a tener que pagarlas, allí nos desplegó una variedad de servidores una mejor que otra y detallando las características que esta tendría si fuera elegida.
 
 Podemos decir que podemos llegar a entrar en desesperación si no se sabe los pasos para poder crear una máquina virtual o incluso llegar a ejecutarla, incluso el de instalar varias aplicaciones que en un futuro llega a tener aspectos negativos. 
@@ -130,12 +131,14 @@ Podemos decir que podemos llegar a entrar en desesperación si no se sabe los pa
 Al instalar una gran variedad de aplicaciones esta puede llegar a reducir su operabilidad o incluso no poder ejecutarlas. en esta parte de incompatibilidad se ve más afectada a empresas que deseen trabajar de esta manera porque no estaría diseñada para algo específico que
 se desee
 
-12.Recomendaciones 
+12)Recomendaciones 
+
 Antes de iniciar en Microsoft Azure debemos investigar un poco cuál es su funcionamiento y que es lo que podemos llegar hacer en esa interfase.
  
  Invertir en máquinas virtuales de bajo presupuesto porque los primerizos tendrían que es familiarizarse primero con el entorno de Microsoft Azure.
 
-13.Bibliografia 
+13)Bibliografia 
+
 Caldas, R., & Junior, A. (2019). Migración de servidores a la nube de Microsoft Azure para mejorar la continuidad de los servicios TI, de la fiduciaria en el año 2018. 
 Copeland, M., Soh, J., Puca, A., Manning, M., & Gollob, D. (2015). Microsoft Azure. Nueva York, NY: Apress.
 Jane, C., & Sánchez, G. (2018). Simulación de redes de computadoras empleando máquinas virtuales como medio de enseñanza de la carrera Ingeniería Informática. Luz, 17(1), 100-106.
