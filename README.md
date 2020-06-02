@@ -140,8 +140,12 @@ Antes de iniciar en Microsoft Azure debemos investigar un poco cuál es su funci
 13)Bibliografia 
 
 Caldas, R., & Junior, A. (2019). Migración de servidores a la nube de Microsoft Azure para mejorar la continuidad de los servicios TI, de la fiduciaria en el año 2018. 
+
+
 Copeland, M., Soh, J., Puca, A., Manning, M., & Gollob, D. (2015). Microsoft Azure. Nueva York, NY: Apress.
+
 Jane, C., & Sánchez, G. (2018). Simulación de redes de computadoras empleando máquinas virtuales como medio de enseñanza de la carrera Ingeniería Informática. Luz, 17(1), 100-106.
+
 Macha Tejeda, G., Quispe, F., & Samuel, J. (2018). Plan de migración del servicio cloud utilizando Microsoft Azure. 
 Tejada Garitano, E., Romero Andonegui, A., López de la Sema, A., & Bilbao Quintana, N. (2019). Análisis y creación de Máquinas Virtuales Congnitivas: Percepción de aprendizaje útil del alumnado Universitario. 
 
