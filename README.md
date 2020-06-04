@@ -97,16 +97,10 @@ Recursos utilizados
 5.	Tarjeta de crédito
 
 
-7) Mapa de Variable
+7) Cronograma
 
 
-
-
-
-8) Explicación del Código Fuente
-
-
-
+![image](https://user-images.githubusercontent.com/63418581/83806312-efef2380-a676-11ea-9ef4-7adf13b59187.png)
 
 
 9) Descripción de pre-requisitos y configuracion
