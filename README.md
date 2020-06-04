@@ -129,7 +129,7 @@ Podemos decir que podemos llegar a entrar en desesperación si no se sabe los pa
 Al instalar una gran variedad de aplicaciones esta puede llegar a reducir su operabilidad o incluso no poder ejecutarlas. en esta parte de incompatibilidad se ve más afectada a empresas que deseen trabajar de esta manera porque no estaría diseñada para algo específico que
 se desee
 
-12)Recomendaciones 
+12)Recomendaciones
 
 Antes de iniciar en Microsoft Azure debemos investigar un poco cuál es su funcionamiento y que es lo que podemos llegar hacer en esa interfase.
  
