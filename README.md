@@ -88,18 +88,17 @@ Al igual que con los sitios web de Azure, los clientes pueden centrarse únicame
 
 
 
-
 6)Lista de Componentes
 
 Recursos utilizados
 1.	Computadora de Escritorio o laptop
 2.	 Acceso a internet
-3.	Personal para su manipulación
-4.	Cuenta en Microsoft Azure
+3)	Personal para su manipulación
+4)	Cuenta en Microsoft Azure
 5.	Tarjeta de crédito
 
 
-7)  Mapa deVariabless
+7) Mapa de Variable
 
 
 
