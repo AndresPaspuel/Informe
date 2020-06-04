@@ -85,7 +85,8 @@ Al igual que con los sitios web de Azure, los clientes pueden centrarse únicame
 
 5) Diagrama
 
-https://user-images.githubusercontent.com/63418581/83472282-78d64700-a44c-11ea-9326-0efb43e032d6.jpeg
+![76e3be38b6bb470b039745c58aa6774f-7](https://user-images.githubusercontent.com/63418581/83806117-9ab31200-a676-11ea-9084-92be871f79df.jpg)
+
 6) Lista de Componentes
 
 Recursos utilizados
