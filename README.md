@@ -151,14 +151,22 @@ https://www.youtube.com/watch?v=bx7H7KtUO6k&t=3s
 14.1 Manual de usuario
 
 1.Despues de terminar la maquina virtual nos dirigimos a la opcion ir a Recurso
+
 2.Nos mostrara todo los detalles de nuestra maquina
-2.Para encender la maquina aplastaremos Inicar
-3.Despues de inciar nos dirgimos a la opcion de Conectarse
-4.Nos saldra una venta donde donde nos saldra con 3 opciones  RDP /SSH/BASTION
-5.Despues de elegir nos saldra una opcion de descargar
-6.Nos saldra una ventana que dira conectar
-7.Depsues nos saldra el Usuario y Contraseña que le pusimos 
-8.Listo entraremos a la maquina virtual 
-9.Y nos dirimos a nuestro servidor  Funcional y isntalamos lo que necesitemos
+
+3.Para encender la maquina aplastaremos Inicar
+
+4.Despues de inciar nos dirgimos a la opcion de Conectarse
+
+5.Nos saldra una venta donde donde nos saldra con 3 opciones  RDP /SSH/BASTION
+
+6.Despues de elegir nos saldra una opcion de descargar
+
+7.Nos saldra una ventana que dira conectar
+8.Depsues nos saldra el Usuario y Contraseña que le pusimos 
+
+9.Listo entraremos a la maquina virtual 
+
+10.Y nos dirigimos a nuestro servidor  Funcional y isntalamos lo que necesitemos
 
 
