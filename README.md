@@ -86,9 +86,7 @@ Al igual que con los sitios web de Azure, los clientes pueden centrarse únicame
 5) Diagrama
 
 
-
-
-6)Lista de Componentes
+6) Lista de Componentes
 
 Recursos utilizados
 1.	Computadora de Escritorio o laptop
