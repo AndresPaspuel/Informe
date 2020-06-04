@@ -148,6 +148,8 @@ Tejada Garitano, E., Romero Andonegui, A., López de la Sema, A., & Bilbao Quint
 
 14.Anexo
 https://www.youtube.com/watch?v=bx7H7KtUO6k&t=3s
+
+
 14.1 Manual de usuario
 
 1.Despues de terminar la maquina virtual nos dirigimos a la opcion ir a Recurso
