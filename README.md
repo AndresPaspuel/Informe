@@ -149,4 +149,7 @@ Jane, C., & Sánchez, G. (2018). Simulación de redes de computadoras empleando 
 Macha Tejeda, G., Quispe, F., & Samuel, J. (2018). Plan de migración del servicio cloud utilizando Microsoft Azure. 
 Tejada Garitano, E., Romero Andonegui, A., López de la Sema, A., & Bilbao Quintana, N. (2019). Análisis y creación de Máquinas Virtuales Congnitivas: Percepción de aprendizaje útil del alumnado Universitario. 
 
+14.Anexo
+https://www.youtube.com/watch?v=bx7H7KtUO6k&t=3s
+
 
