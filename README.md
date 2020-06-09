@@ -155,15 +155,14 @@ https://www.youtube.com/watch?v=bx7H7KtUO6k&t=3s
 
 4.Despues de inciar nos dirgimos a la opcion de Conectarse
 
-5.Nos saldra una venta donde donde nos saldra con 3 opciones  RDP /SSH/BASTION
+5.Buscamos en Menu Conexion Remota
 
-6.Despues de elegir nos saldra una opcion de descargar
+6.Nos saldra una ventana que dira conectar
 
-7.Nos saldra una ventana que dira conectar
 8.Depsues nos saldra el Usuario y Contraseña que le pusimos 
 
-9.Listo entraremos a la maquina virtual 
+9. Y conectamos
 
-10.Y nos dirigimos a nuestro servidor  Funcional y isntalamos lo que necesitemos
+10. Se recomienda irse adapatando poco a poco con la maquina y instalar programas que sean compatibles con las caracteristicas que pusimos a nuestra maquina 
 
 
